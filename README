@@ -1,0 +1,17 @@
+# Resources
+
+## the intuition
+https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/ 
+
+## create a basic microservice
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
+## create the whole thing using a YAML file
+## this is the entire thing
+https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/ 
+
+# Steps
+1. Create an image using docker
+2. Upload the image to docker hub
+3. create the YAML file and put the link to docker hub and make sure the port matches
+4. kubectl services 'service name'
